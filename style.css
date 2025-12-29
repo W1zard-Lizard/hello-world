@@ -8,12 +8,8 @@ h2 {font-family: times serif; font-size: 24; color: gold}
  a{text-decoration: none}
  a {font-family: times serif; color: white}
 
-img1 {
-  display: block; /* Images are inline by default, change to block */
-  margin-left: auto; /* Distribute available space equally to the left */
-  margin-right: auto; /* Distribute available space equally to the right */
-  /* Shorthand: margin: 0 auto; */
-  width: 50%; /* Optional: set a width smaller than 100% to see the centering effect */
+img {
+  display: block; margin-left: auto; margin-right: auto; width: 50%;
 }
  
 
